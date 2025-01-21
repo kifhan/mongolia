@@ -12,7 +12,6 @@ yarn-error.log*
 jspm_packages/
 
 # Build directories
-dist/
 build/
 
 # Vite cache
