@@ -18,14 +18,6 @@ build/
 # Vite cache
 .vite/
 
-# Tailwind CSS
-tailwind.config.js
-postcss.config.js
-
-# React
-*.jsx
-*.tsx
-
 # Misc
 .DS_Store
 .env
